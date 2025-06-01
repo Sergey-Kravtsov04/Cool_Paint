@@ -1,0 +1,28 @@
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Release\Lab_2.exe.config
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Release\Lab_2.exe
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Release\Lab_2.pdb
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.Form1.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.Form2.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.GridStep.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.LineThicknessForm.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.SizeChoice.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.exe
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Release\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Release\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Release\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Release\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Release\Lab_2.pdb

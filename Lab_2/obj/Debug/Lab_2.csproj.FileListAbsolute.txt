@@ -1,0 +1,420 @@
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учеба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_2 — копия\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_3\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_3(Better)\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_4\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_5\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.Form1.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.Form2.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.exe
+F:\Lab_6\Lab_2\obj\Debug\Lab_2.pdb
+F:\Lab_6\Lab_2\bin\Debug\Lab_2.exe.config
+F:\Lab_6\Lab_2\bin\Debug\Lab_2.exe
+F:\Lab_6\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_6\Lab_2\obj\Debug\Lab_2.pdb
+K:\Lab_6\Lab_2\bin\Debug\Lab_2.exe.config
+K:\Lab_6\Lab_2\bin\Debug\Lab_2.exe
+K:\Lab_6\Lab_2\bin\Debug\Lab_2.pdb
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.Form1.resources
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.Form2.resources
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.exe
+K:\Lab_6\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_6\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_6\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_6\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_6\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_7\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_8\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Учёба(2023-2024)\2 семак\ООП(лабы)\Lab_9\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_9\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_9\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_9\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_9\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_10\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_10\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_10\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_10\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_11\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_10(better)\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_11\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_11\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_11\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_11\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_11_1\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_12\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_12\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_12\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_12\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_12\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\keska\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\keska\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\Student\Desktop\Lab_13\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\Student\Desktop\Lab_13\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_13(cool)\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.FiguresParameters.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.Forms.PointArrayEditor.resources
+C:\Users\dorus\OneDrive\Рабочий стол\Lab_14\Lab_2\obj\Debug\Lab_2.Forms.FigureChoice.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.Forms.FigureChoice.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.FiguresParameters.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.Forms.PointArrayEditor.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\3 курс\Lab_15\Lab_2\obj\Debug\Lab_2.pdb
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\bin\Debug\Lab_2.exe.config
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\bin\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\bin\Debug\Lab_2.pdb
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.AssemblyReference.cache
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.Forms.FigureChoice.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.FiguresParameters.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.Form1.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.Form2.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.GridStep.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.LineThicknessForm.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.Forms.PointArrayEditor.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.Properties.Resources.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.SizeChoice.resources
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.GenerateResource.cache
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.csproj.CoreCompileInputs.cache
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.exe
+C:\Users\dorus\Desktop\3 курс\1 семак\ООП(лабы)\Lab_14\Lab_2\obj\Debug\Lab_2.pdb
